@@ -3,8 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+  
+    
       <url>
-            <loc>https://sansubr2.github.io/blog/</loc>
+            <loc>https://sansubr.github.io/blog/</loc>
             <lastmod>2023-06-14T10:44:00+05:30</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -17,7 +19,16 @@
   
     
       <url>
-            <loc>https://sansubr2.github.io/blog/digital-minimalism/</loc>
+            <loc>https://sansubr.github.io/</loc>
+            <lastmod>2023-06-14T10:44:00+05:30</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://sansubr.github.io/blog/digital-minimalism/</loc>
             <lastmod>2023-06-14T10:44:00+05:30</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -29,13 +40,6 @@
     
   
     
-      <url>
-            <loc>https://sansubr2.github.io/</loc>
-            <lastmod>2023-06-14T10:44:00+05:30</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
   
     
   
@@ -49,7 +53,7 @@
   
     
       <url>
-            <loc>https://sansubr2.github.io/blog/aida-model/</loc>
+            <loc>https://sansubr.github.io/blog/aida-model/</loc>
             <lastmod>2023-05-28T10:56:00+05:30</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -62,7 +66,7 @@
   
     
       <url>
-            <loc>https://sansubr2.github.io/blog/marketing-funnel/</loc>
+            <loc>https://sansubr.github.io/blog/marketing-funnel/</loc>
             <lastmod>2023-05-20T17:30:00+05:30</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -75,7 +79,7 @@
   
     
       <url>
-            <loc>https://sansubr2.github.io/blog/jamstack-why-should-digital-marketers-care/</loc>
+            <loc>https://sansubr.github.io/blog/jamstack-why-should-digital-marketers-care/</loc>
             <lastmod>2023-05-05T16:00:00+05:30</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -86,7 +90,7 @@
   
     
       <url>
-            <loc>https://sansubr2.github.io/blog/maximizing-email-marketing/</loc>
+            <loc>https://sansubr.github.io/blog/maximizing-email-marketing/</loc>
             <lastmod>2023-04-26T17:14:14+05:30</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -95,7 +99,7 @@
   
     
       <url>
-            <loc>https://sansubr2.github.io/blog/9-things-digital-marketing-career/</loc>
+            <loc>https://sansubr.github.io/blog/9-things-digital-marketing-career/</loc>
             <lastmod>2023-04-18T20:48:50+05:30</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -108,13 +112,11 @@
   
     
       <url>
-            <loc>https://sansubr2.github.io/about/</loc>
+            <loc>https://sansubr.github.io/about/</loc>
             <lastmod>2023-04-10T20:48:50+05:30</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
