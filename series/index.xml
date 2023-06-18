@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Digital Side Quest 🕹</title>
-    <link>https://sansubr.github.io/series/</link>
+    <link>https://www.digitalsidequest.com/series/</link>
     <description>Recent content in Series on Digital Side Quest 🕹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright><atom:link href="https://sansubr.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copy, _right?_ :thinking_face:</copyright><atom:link href="https://www.digitalsidequest.com/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
